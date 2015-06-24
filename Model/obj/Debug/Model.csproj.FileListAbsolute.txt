@@ -1,0 +1,23 @@
+D:\2015-00-DEV\PADRAO\Model\bin\Debug\Model.dll
+D:\2015-00-DEV\PADRAO\Model\bin\Debug\Model.pdb
+D:\2015-00-DEV\PADRAO\Model\bin\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\PADRAO\Model\bin\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.csproj.ResolveComReference.cache
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.Properties.Resources.resources
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.dll
+D:\2015-00-DEV\PADRAO\Model\obj\Debug\Model.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\bin\Debug\Model.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\bin\Debug\Model.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\bin\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\bin\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Model.csproj.ResolveComReference.cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Model.Properties.Resources.resources
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Model.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Model\obj\Debug\Model.pdb

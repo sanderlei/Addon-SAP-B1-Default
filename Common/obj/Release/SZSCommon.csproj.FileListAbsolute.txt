@@ -1,0 +1,12 @@
+C:\SZ-SOLUÇÕES\Working\SZSCommon\bin\Release\SZS.Common.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\bin\Release\SZS.Common.pdb
+C:\SZ-SOLUÇÕES\Working\SZSCommon\bin\Release\ConverterLib.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\Interop.SAPbobsCOM.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\Interop.SAPbouiCOM.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZSCommon.csproj.ResolveComReference.cache
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZS.Common.Properties.CommonStrings.resources
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZSCommon.csproj.GenerateResource.Cache
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZS.Common.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZS.Common.pdb
+C:\SZ-SOLUÇÕES\Working\SZSCommon\bin\Release\Antlr3.Runtime.dll
+C:\SZ-SOLUÇÕES\Working\SZSCommon\obj\Release\SZSCommon.csprojResolveAssemblyReference.cache

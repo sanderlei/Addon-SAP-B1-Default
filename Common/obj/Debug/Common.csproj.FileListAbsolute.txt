@@ -1,0 +1,22 @@
+D:\2015-00-DEV\PADRAO\Common\bin\Debug\SZS.Common.dll
+D:\2015-00-DEV\PADRAO\Common\bin\Debug\SZS.Common.pdb
+D:\2015-00-DEV\PADRAO\Common\bin\Debug\ConverterLib.dll
+D:\2015-00-DEV\PADRAO\Common\bin\Debug\Antlr3.Runtime.dll
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\SZS.Common.Properties.CommonStrings.resources
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\SZS.Common.dll
+D:\2015-00-DEV\PADRAO\Common\obj\Debug\SZS.Common.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\bin\Debug\Common.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\bin\Debug\Common.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\bin\Debug\ConverterLib.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Common.csproj.ResolveComReference.cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Common.Properties.CommonStrings.resources
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Common.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Common\obj\Debug\Common.pdb

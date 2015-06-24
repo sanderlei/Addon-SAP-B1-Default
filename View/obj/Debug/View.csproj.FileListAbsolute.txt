@@ -1,0 +1,43 @@
+D:\2015-00-DEV\PADRAO\View\bin\Debug\srfFiles\f1001.srf
+D:\2015-00-DEV\PADRAO\View\bin\Debug\View.dll.config
+D:\2015-00-DEV\PADRAO\View\bin\Debug\View.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\View.pdb
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Controller.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Model.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\SZS.Common.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\ConverterLib.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Antlr3.Runtime.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\SZS.Common.pdb
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Controller.pdb
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Model.pdb
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\PADRAO\View\bin\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\PADRAO\View\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\PADRAO\View\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.csproj.ResolveComReference.cache
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.Properties.Resources.resources
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.dll
+D:\2015-00-DEV\PADRAO\View\obj\Debug\View.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\srfFiles\f1001.srf
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\View.dll.config
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\View.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\View.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Common.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Controller.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Model.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\ConverterLib.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Common.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Controller.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Model.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\bin\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\Interop.SAPbobsCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\Interop.SAPbouiCOM.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.csproj.ResolveComReference.cache
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.Properties.Resources.resources
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.csproj.GenerateResource.Cache
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\View\obj\Debug\View.pdb

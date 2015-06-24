@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B956D6A2-AF35-4116-840C-F4E5CEFD40F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ConverterLib">
+      <HintPath>Components\ConverterLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>Components\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controllers\BaseChildController.cs" />
+    <Compile Include="Controllers\BPItemsCatalogController.cs" />
+    <Compile Include="Controllers\BusinessPlaceController.cs" />
+    <Compile Include="Controllers\CityController.cs" />
+    <Compile Include="Controllers\CrudChildController.cs" />
+    <Compile Include="Controllers\EventFilterController.cs" />
+    <Compile Include="Controllers\GenericController.cs" />
+    <Compile Include="Controllers\ItemController.cs" />
+    <Compile Include="Controllers\MatrixController.cs" />
+    <Compile Include="Controllers\PermissionController.cs" />
+    <Compile Include="Controllers\SAPObjectBaseController.cs" />
+    <Compile Include="Controllers\SqlController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controllers\WarehouseController.cs" />
+    <Compile Include="DataBase\StoredProcedureController.cs" />
+    <Compile Include="Enums\ItemManagTypeEnum.cs" />
+    <Compile Include="Helpers\DataInterface\RecordsetHelpers.cs" />
+    <Compile Include="Helpers\UserInterface\DataTableHelpers.cs" />
+    <Compile Include="Helpers\UserInterface\MatrixHelpers.cs" />
+    <Compile Include="Helpers\UserInterface\UserDataSourcesHelpers.cs" />
+    <Compile Include="Helpers\ObjectHelpers.cs" />
+    <Compile Include="Helpers\XmlHelpers.cs" />
+    <Compile Include="Forms\BaseForm.cs" />
+    <Compile Include="Forms\BaseFormParent.cs" />
+    <Compile Include="Controllers\ComboBoxController.cs" />
+    <Compile Include="Controllers\CrudController.cs" />
+    <Compile Include="Controllers\ErrorController.cs" />
+    <Compile Include="Controllers\FormController.cs" />
+    <Compile Include="Controllers\GridController.cs" />
+    <Compile Include="Controllers\ModelBaseController.cs" />
+    <Compile Include="Controllers\ModelController.cs" />
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\ValidationController.cs" />
+    <Compile Include="DataBase\UserObjectController.cs" />
+    <Compile Include="DataBase\Date.cs" />
+    <Compile Include="Enums\EnumMenuType.cs" />
+    <Compile Include="Enums\EnumCrud.cs" />
+    <Compile Include="Interfaces\IForm.cs" />
+    <Compile Include="Controllers\ListenerController.cs" />
+    <Compile Include="Controllers\MenuController.cs" />
+    <Compile Include="Controllers\EventController.cs" />
+    <Compile Include="Models\BaseModel.cs" />
+    <Compile Include="Models\BusinessPlaceModel.cs" />
+    <Compile Include="Models\CertificateModel.cs" />
+    <Compile Include="Models\CityModel.cs" />
+    <Compile Include="Models\DefaultMasterDataModel.cs" />
+    <Compile Include="Models\DocumentItemModel.cs" />
+    <Compile Include="Models\ItemModel.cs" />
+    <Compile Include="Models\MenuModel.cs" />
+    <Compile Include="Models\ModelBase.cs" />
+    <Compile Include="Models\GenericModel.cs" />
+    <Compile Include="Models\PermissionModel.cs" />
+    <Compile Include="Models\TableModel.cs" />
+    <Compile Include="Models\WarehouseModel.cs" />
+    <Compile Include="Properties\CommonStrings.Designer.cs">
+      <DependentUpon>CommonStrings.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SBOApp.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\CertificateUtil.cs" />
+    <Compile Include="Util\ComboBoxExtensions.cs" />
+    <Compile Include="Util\DialogUtil.cs" />
+    <Compile Include="Util\FormatString.cs" />
+    <Compile Include="Util\FormattedSearchUtil.cs" />
+    <Compile Include="Util\Math.cs" />
+    <Compile Include="Util\PrintUtil.cs" />
+    <Compile Include="Util\ComplexProperty.cs" />
+    <Compile Include="Util\Cryptography.cs" />
+    <Compile Include="Util\DuplicateObject.cs" />
+    <Compile Include="Util\DynamicProperty.cs" />
+    <Compile Include="Util\RawPrinterHelper.cs" />
+    <Compile Include="Util\StringUtil.cs" />
+    <Compile Include="Util\WindowsServiceInstaller.cs" />
+    <Compile Include="Util\SimpleProperty.cs" />
+    <Compile Include="Util\WindowWrapper.cs" />
+    <Compile Include="Util\XmlSerializationUtil.cs" />
+    <Compile Include="Util\XmlSignUtil.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SAPbobsCOM">
+      <Guid>{FC8030BE-F5D2-4B8E-8F92-44228FE30090}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SAPbouiCOM">
+      <Guid>{6048236A-956D-498D-A6F1-9C81C13AB6E8}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\CommonStrings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CommonStrings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

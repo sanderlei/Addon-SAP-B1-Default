@@ -1,0 +1,18 @@
+D:\2015-00-DEV\PADRAO\Controller\bin\Debug\Controller.dll
+D:\2015-00-DEV\PADRAO\Controller\bin\Debug\Controller.pdb
+D:\2015-00-DEV\PADRAO\Controller\bin\Debug\Model.dll
+D:\2015-00-DEV\PADRAO\Controller\bin\Debug\Model.pdb
+D:\2015-00-DEV\PADRAO\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\PADRAO\Controller\obj\Debug\Controller.Properties.Resources.resources
+D:\2015-00-DEV\PADRAO\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+D:\2015-00-DEV\PADRAO\Controller\obj\Debug\Controller.dll
+D:\2015-00-DEV\PADRAO\Controller\obj\Debug\Controller.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\bin\Debug\Controller.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\bin\Debug\Controller.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\bin\Debug\Model.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\bin\Debug\Model.pdb
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\obj\Debug\Controller.Properties.Resources.resources
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\obj\Debug\Controller.dll
+D:\2015-00-DEV\Addon SAP B1 - Default\Controller\obj\Debug\Controller.pdb
