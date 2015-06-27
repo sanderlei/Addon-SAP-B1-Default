@@ -21,6 +21,7 @@ namespace View
                 form.FormID = 1001;
                 form.SrfFolder = "srfFiles";                
                 form.Show();
+
             }
 
             return true;
