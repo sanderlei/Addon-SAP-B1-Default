@@ -19,7 +19,7 @@ namespace Main
                 MessageBox.Show("O aplicativo deve ser iniciado dentro do SAP Business One Client.", "Add-On Default",
                     MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 
-                Application.Exit();   
+                Application.Exit();     
 
                 return;
             }
