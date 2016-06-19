@@ -4,5 +4,3 @@ SAP Business One 9.0 with PL10
 ------------------------------------
 Project Project.
 Project Project.
-Project Project.
-Project Project.
